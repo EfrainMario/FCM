@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186975266009",
+    "firebase_url": "https://exericio1.firebaseio.com",
+    "project_id": "exericio1",
+    "storage_bucket": "exericio1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186975266009:android:1ddd89d6c06ffbea",
+        "android_client_info": {
+          "package_name": "exercicios.example.com.exericio1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186975266009-8tmebo64684aagrp0l7735nhib6vjgmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "exercicios.example.com.exericio1",
+            "certificate_hash": "f320ea787948d035312d49c4c03a21d873ca1f31"
+          }
+        },
+        {
+          "client_id": "186975266009-4gfpruh54v48ovo4i3r6nvl3g8186g20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQrJn-YpIc9XPlx-DGzbLER3Q5a9BGU3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186975266009-4gfpruh54v48ovo4i3r6nvl3g8186g20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
